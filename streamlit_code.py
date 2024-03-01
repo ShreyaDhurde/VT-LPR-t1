@@ -1,3 +1,5 @@
+pip install ipython
+
 import streamlit as st
 from IPython.display import Image
 from matplotlib import pyplot as plt
