@@ -1,4 +1,4 @@
-pip install ipython
+!pip install ipython
 
 import streamlit as st
 from IPython.display import Image
