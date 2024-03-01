@@ -1,4 +1,4 @@
-!pip install ipython
+pip install ipython==8.21.0
 
 import streamlit as st
 from IPython.display import Image
